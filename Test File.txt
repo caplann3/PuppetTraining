@@ -1,7 +1,5 @@
 This is a test...
 
-<<<<<<< HEAD
 Change in VCS locally.
-=======
+
 Change in GitHub remotely.
->>>>>>> 3bbe0e69e8c5edfef20352441759a7439d5f6ab7
